@@ -1,0 +1,5 @@
+open-ai:
+  client:
+    configuration:
+      api-key: sk-***
+      content-type: application/json
